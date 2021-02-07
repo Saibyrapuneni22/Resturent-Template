@@ -1,0 +1,60 @@
+header{
+    background: red;
+
+    display:flex;
+}
+h1{
+    float: left;
+   width: 90%;
+   margin: 5px;
+   padding: 10px;
+  
+}
+.logo{
+    border-radius: 50%;
+}
+button{
+    float: right;
+   /* display: flex;*/
+   width: 10%;
+}
+.first{
+   background-color: red;
+   margin: 10px;
+}
+.second{
+    background-color: red;
+    border:1px solid black;
+    margin: 10px;
+}
+.content-1{
+    width: 25%;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 5px;
+
+}
+.content-2{
+    width: 75%;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 5px;
+}
+.content{
+    display: flex;
+    padding: 5px;
+    display: 1px solid gray;
+}
+img{
+    height: 20%;
+    width: 20%;
+    float: left;
+    padding: 20px;
+}
+span{
+    font-weight: bold;
+    padding: 3px;
+}
+
+
+
